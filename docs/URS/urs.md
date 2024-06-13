@@ -79,3 +79,7 @@ YYYY
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
+
+![Use Case Diagrams](imgs/prima.png)
+
+
