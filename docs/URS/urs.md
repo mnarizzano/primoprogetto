@@ -131,14 +131,21 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 
 <a name="sp3.2.1"></a>
 #### 3.2.1 Prelievo 
+
 <b>NOME</b>
+
 <b>Precondizioni</b>
+
 <b>Priorità</b>
+
 <b>Stakeholder Principale</b>
 
 <b>Scenario Principale</b>
+
 <b>Scenario Alternativo</b>
+
 <b>Scenario Alternativo</b>
+
 <b>Post-Condizioni</b>
 
 
