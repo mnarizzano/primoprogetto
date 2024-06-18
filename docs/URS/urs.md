@@ -2,7 +2,7 @@
 ### User Requirements Specification Document
 
 
-**VERSION : 1.0**
+**VERSION : 2.0**
 
 **Authors**  
 Massimo Narizzano
@@ -13,6 +13,7 @@ Massimo Narizzano
 | Version    | Date        | Authors      | Notes        |
 | ----------- | ----------- | ----------- | ----------- |
 | 1.0 | 18/06/2024 | Massimo Narizzano| Inserita prima immagine |
+| 2.0 | 18/06/2024 | Massimo Narizzano| Inserita ATM - USE CASE |
 
 # Table of Contents
 
@@ -80,7 +81,7 @@ Massimo Narizzano
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
 
-![Use Case Diagrams](imgs/usecase1.png)
+![Use Case Diagrams](imgs/usecaseATM.png)
 
 
 
