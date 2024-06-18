@@ -132,7 +132,78 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 <a name="sp3.2.1"></a>
 #### 3.2.1 Prelievo 
 
-<b>NOME</b>
+<b>Nome</b> Prelievo
+
+<b>Precondizioni</b> Essere in possesso di una tessera Bancomat
+
+
+<b>Priorità</b> Mandatory
+
+<b>Stakeholder Principale</b> Cliente
+
+<b>Scenario Principale</b> 
+	1. Cliente inserisce tessera bancomat
+	
+ 	2. Cliente inserisce pin corretto
+
+  	3. Il cliente seleziona la quantità da prelevare
+
+   	4. ATM eroga le banconote la tessera e la ricevuta
+
+    	5. Il cliente  ritira le banconote, la tessera e la ricevuta
+
+     	6. ATM puslisce lo schermo
+
+<b>Scenario Alternativo</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Post-Condizioni</b>
+
+
+
+
+<a name="sp3.2.2"></a>
+#### 3.2.2 Deposito 
+
+<b>Nome</b>
+
+<b>Precondizioni</b>
+
+<b>Priorità</b>
+
+<b>Stakeholder Principale</b>
+
+<b>Scenario Principale</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Post-Condizioni</b>
+
+<a name="sp3.2.3"></a>
+#### 3.2.3 Trasferimento
+
+<b>Nome</b>
+
+<b>Precondizioni</b>
+
+<b>Priorità</b>
+
+<b>Stakeholder Principale</b>
+
+<b>Scenario Principale</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Post-Condizioni</b>
+
+<a name="sp3.2.4"></a>
+#### 3.2.4 Saldo
+<b>Nome</b>
 
 <b>Precondizioni</b>
 
@@ -149,23 +220,43 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 <b>Post-Condizioni</b>
 
 
-
-
-<a name="sp3.2.2"></a>
-#### 3.2.2 Deposito 
-
-<a name="sp3.2.3"></a>
-#### 3.2.3 Trasferimento
-
-<a name="sp3.2.4"></a>
-#### 3.2.4 Saldo
-
 <a name="sp3.2.5"></a>
 #### 3.2.5 Accensione
+
+<b>Nome</b>
+
+<b>Precondizioni</b>
+
+<b>Priorità</b>
+
+<b>Stakeholder Principale</b>
+
+<b>Scenario Principale</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Post-Condizioni</b>
 
 <a name="sp3.2.6"></a>
 #### 3.2.6 Spegnimento
 
+<b>Nome</b>
+
+<b>Precondizioni</b>
+
+<b>Priorità</b>
+
+<b>Stakeholder Principale</b>
+
+<b>Scenario Principale</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Scenario Alternativo</b>
+
+<b>Post-Condizioni</b>
 
 
 
