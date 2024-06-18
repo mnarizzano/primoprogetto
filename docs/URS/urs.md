@@ -128,5 +128,26 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 
 ![Use Case Diagrams](imgs/usecaseATM.png)
 
+<a name="sp3.2.1"></a>
+#### 3.2.1 Prelievo 
+
+<a name="sp3.2.2"></a>
+#### 3.2.2 Deposito 
+
+<a name="sp3.2.3"></a>
+#### 3.2.3 Trasferimento
+
+<a name="sp3.2.4"></a>
+#### 3.2.4 Saldo
+
+<a name="sp3.2.5"></a>
+#### 3.2.5 Accensione
+
+<a name="sp3.2.6"></a>
+#### 3.2.6 Spegnimento
+
+
+
+
 
 
