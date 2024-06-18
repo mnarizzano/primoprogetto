@@ -78,6 +78,10 @@ Massimo Narizzano
 <a name="sp3.1"></a>
 ### 3.1 Stakeholders
 
+1. Cliente : Il cliente è un utente che ha uno o più conti aperti con la banca, e il suo obiettivo è quello di eseguire operazioni sui suoi conti correnti
+2. Banca   : E' la depositaria dei conti correnti di ogni Cliente, e vuole costruire il software per il bancomat pechè vuole via via diminuire i cassieri per abbattere i costi
+3. Operatore : E' il manutentore del bancomat.
+
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
 
