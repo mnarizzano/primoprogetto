@@ -83,6 +83,4 @@ Massimo Narizzano
 ![Use Case Diagrams](imgs/usecase1.png)
 
 
-![Use Case Diagrams](imgs/prima.png)
-
 
