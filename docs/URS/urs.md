@@ -160,6 +160,7 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 	2A - Il Cliente inserisce il PIN non corretto per la terza volta
  
    		1. ATM Notifica che il PIN è errato 
+     		2. L'ATM notifica che non restituisce la tessera
 		3. L'ATM va al punto 6 dello scenario principale.
     
 
