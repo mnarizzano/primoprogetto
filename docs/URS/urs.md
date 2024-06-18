@@ -142,6 +142,7 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 <b>Stakeholder Principale</b> Cliente
 
 <b>Scenario Principale</b> 
+
 	1. Cliente inserisce tessera bancomat
 	
  	2. Cliente inserisce pin corretto
