@@ -2,17 +2,17 @@
 ### User Requirements Specification Document
 
 
-**VERSION : X.X**
+**VERSION : 1.0**
 
 **Authors**  
-XXXX
-YYYY
+Massimo Narizzano
+
 
 **REVISION HISTORY**
 
 | Version    | Date        | Authors      | Notes        |
 | ----------- | ----------- | ----------- | ----------- |
-| X.X |  | |  |
+| 1.0 | 18/06/2024 | Massimo Narizzano| Inserita prima immagine |
 
 # Table of Contents
 
@@ -79,6 +79,9 @@ YYYY
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
+
+![Use Case Diagrams](imgs/usecase1.png)
+
 
 ![Use Case Diagrams](imgs/prima.png)
 
