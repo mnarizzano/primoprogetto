@@ -124,6 +124,7 @@ Verifica del Saldo su qualunque conto associato alla carta.
 
 <a name="sp3.2"></a>
 ### 3.2 Functional Requirements 
+Di seguito possiamo vedere una descrizione delle principali funzionalità
 
 ![Use Case Diagrams](imgs/usecaseATM.png)
 
