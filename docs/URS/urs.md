@@ -14,6 +14,7 @@ Massimo Narizzano
 | ----------- | ----------- | ----------- | ----------- |
 | 1.0 | 18/06/2024 | Massimo Narizzano| Inserita prima immagine |
 | 2.0 | 18/06/2024 | Massimo Narizzano| Inserita ATM - USE CASE |
+| 2.1 | 18/06/2024 | Massimo Narizzano| Inseriti Scenari  |
 
 # Table of Contents
 
@@ -130,6 +131,18 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 
 <a name="sp3.2.1"></a>
 #### 3.2.1 Prelievo 
+<b>NOME</b>
+<b>Precondizioni</b>
+<b>Priorità</b>
+<b>Stakeholder Principale</b>
+
+<b>Scenario Principale</b>
+<b>Scenario Alternativo</b>
+<b>Scenario Alternativo</b>
+<b>Post-Condizioni</b>
+
+
+
 
 <a name="sp3.2.2"></a>
 #### 3.2.2 Deposito 
