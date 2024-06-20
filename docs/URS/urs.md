@@ -155,12 +155,18 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
  
  	1. ATM Notifica che il PIN è errato 
  	2. L'ATM notifica che non restituisce la tessera
- 	3. 3. L'ATM va al punto 6 dello scenario principale.
+ 	3. L'ATM va al punto 6 dello scenario principale.
     
 <b>Scenario Alternativo</b>
+2B - Il Cliente inserisce il PIN non corretto per un numero di volte minore di 3
+ 
+ 	1. ATM Notifica che il PIN è errato e invita il cliente a digitarlo di nuovo 
+ 	2. L'ATM incrementa il contatore dei fallimenti
+ 	3. L'ATM va al punto 2 dello scenario principale.
 
 <b>Post-Condizioni</b>
 
+La cifra richiesta viene prelevata dal conto corrente aggiornando il saldo
 
 
 
