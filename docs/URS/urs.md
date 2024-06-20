@@ -144,15 +144,10 @@ Di seguito possiamo vedere una descrizione delle principali funzionalità
 <b>Scenario Principale</b> 
 
 	1. Cliente inserisce tessera bancomat
-	
  	2. Cliente inserisce pin corretto
-
   	3. Il cliente seleziona la quantità da prelevare
-
    	4. ATM eroga le banconote la tessera e la ricevuta
-    
     	5. Il cliente ritira le banconote, la tessera e la ricevuta
-      
      	6. ATM puslisce lo schermo
 
 <b>Scenario Alternativo</b> 
